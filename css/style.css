@@ -13,7 +13,7 @@ body{
     background-color: black;
 }
 .greetings{
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-weight: 200;
 }
 .greetings > span{
